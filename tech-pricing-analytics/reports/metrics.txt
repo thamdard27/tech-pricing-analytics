@@ -1,0 +1,5 @@
+R2=0.766
+MAE_usd=115.9
+RMSE_usd=221.4
+MAPE_pct=15.51
+top_drivers=['ram_gb', 'cpu_ghz', 'cpu_tier']

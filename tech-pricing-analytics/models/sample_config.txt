@@ -1,0 +1,8 @@
+ram_gb 16
+ssd_gb 512
+ppi 157.0
+cpu_ghz 2.8
+weight_kg 1.6
+screen_in 15.6
+has_ssd 1
+python_predicted_usd 1225.8564
